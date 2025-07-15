@@ -78,7 +78,7 @@ sym_layer { label= "SYM";  bindings = <
 
                 &kp DQT    &kp TILDE    &kp PIPE    &kp LBRC    &kp RBRC       &kp F1      &kp F2      &kp F3      &kp F4      &kp PSCRN 
                 &kp COLON  &kp SEMI     &kp X       &kp LPRN    &kp RPRN       &kp F5      &kp F6      &kp F7      &kp F8      &kp DEL
-    &trans      &kp CARET  &kp BSLH     &kp X       &kp LCBR    &kp RCBR       &kp F9      &kp LEFT    &kp UP      &kp RIGHT   &kp DOWN      &F11 
+    &trans      &kp CARET  &kp BSLH     &kp X       &kp LCBR    &kp RCBR       &kp F9      &kp LEFT    &kp UP      &kp RIGHT   &kp DOWN      &kp F11 
                                         &kp X       &kp X       &kp SPACE      &kp LEFT    &kp UP      &kp RIGHT            
 >;};
 
